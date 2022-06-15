@@ -12,6 +12,12 @@ public class Demo
 		System.out.println("Hello This is M2");
 	}
 	
+	
+	public void m3()
+	{
+		System.out.println("Hello This is M2");
+	}
+	
 	public static void main(String[] args) {
 	
 	System.out.println("Hello");
